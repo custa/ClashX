@@ -1,0 +1,4 @@
+
+rules:
+  - DOMAIN-SUFFIX,docker.com,Proxy
+  - DOMAIN-SUFFIX,docker.io,Proxy
